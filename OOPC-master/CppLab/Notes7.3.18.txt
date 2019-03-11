@@ -1,0 +1,10 @@
+Assignment (OOPC)
+
+1. What is inline function.? Syntax. 
+   Mention the situations where the concept of inline in not applicable. 
+   How does an inline function differ from a pre-processor macro.?
+2. What is default argument.? Explain in detail.
+3. Compare an contrast reference variable with normal variable. Explain with example.
+4. Differentiate between pass by value, reference and pointer.
+5. Describe function overloading with example.
+6. How does OOP help to produce flexible and extensible software.?

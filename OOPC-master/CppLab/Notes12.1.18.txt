@@ -1,0 +1,27 @@
+Function is a user defined data type.
+Function is a sub-routine, having one or more statements, designed to perform specific tasks.
+Types of functions : User defined and Library
+Categories of a functions:->
+  no ret (no arg)
+  no ret (arg)
+     ret (no arg)
+     ret (arg)
+  multiple return(arg)
+
+Function prototype / signature:->
+Includes:
+  Return type of functions
+  Number of arguments
+  Types of arguments
+
+Functions come with 3 things attached:
+  Declaration
+  Definition and
+  Call
+
+Three ways to pass arguments
+  1.Pass by values
+  2.Pass by pointer
+  3.Pass by reference
+
+.

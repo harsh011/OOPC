@@ -1,0 +1,25 @@
+=Variable: A data name which holds the data value.
++Storage Class(4): Auto(default), extern(global), register(microprocessor's register as the storage) and static(Constant).
+=Doc, def, global vars, main,
++Typecast pointer (Dangler).
+-Function prototype: Return type, no of args, and types of args.
+-Function Declaration, Definition and Call.
+=sdf and udf.
+
+
+Structure of C++ Programs:
+1.Include Files
+2.Class Declaration
+3.Member Function Definition
+4.Main Function Program
+
+
+Implicit/Explicit Typecast
+
+x/y=0 iff int x < int y
+x/0=0
+
+Control Structure:
+1.Sequential,
+2.Branching/Selection
+& 3.Loops
